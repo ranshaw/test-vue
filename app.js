@@ -34,7 +34,6 @@ let init,
     updateData,
     delData;
 
-
 createTable = function () {
 
   comment = mongoose.model('comment', {
