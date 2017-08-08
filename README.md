@@ -28,7 +28,7 @@
 3. [MongoDB在window上安装教程](https://jingyan.baidu.com/article/d5c4b52bef7268da560dc5f8.html)
 4. [在Node中基于Mongoose对MongoDB进行增删查改](https://segmentfault.com/a/1190000006123880)
 
-##服务端代码实现
+**服务端代码实现**
 
   在你阅读完上面的文章之后，我相信服务端代码的编写，对你来说已经没什么问题了，下面代码中用到了少量的ES6中语法，如果只为看懂本文，百度一下即可，为了将来的发展的话，还是要系统学习下，推荐阮一峰大神的ES6教程，现在ES6已经成为前端的必备技能了。
 
@@ -150,6 +150,6 @@ const state = {
     preClipped: false,
 };
 ```
-##总结
+**总结**
  [项目源码](https://github.com/ranshaw/VueJs) 欢迎Start!
 孩子，我看你骨骼精奇，是块撸代码的好材料，待你撸完上面的代码即可打通任督二脉，开启通往高手之路。
