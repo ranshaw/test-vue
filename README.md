@@ -110,13 +110,13 @@ let query = comment.find({});
 
 服务端的逻辑就说这么多了，比较简单，[源码点这里](https://github.com/ranshaw/VueJs)，具体实现自行研究哟，觉得有帮助的话，给Star一下哟。
 
-##前端推荐阅读
+**前端推荐阅读**
 1. [VueJs官方文档](https://cn.vuejs.org/)
 2. [Vuex官方文档](https://vuex.vuejs.org/zh-cn/)
 3. [Vue-cli官方文档](https://github.com/vuejs/vue-cli)
 4. [Webpack2中文文档](https://doc.webpack-china.org/)
 5. [Axios](https://www.npmjs.com/package/axios)
-##前端代码实现
+**前端代码实现**
 
 ![image.png](http://upload-images.jianshu.io/upload_images/6565019-3b7a295a784d5852.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
