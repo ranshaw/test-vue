@@ -14,8 +14,11 @@
 
 
 **服务端：Node + Express + MongoDB** 
+
  **前   端：Vue2.0 + Vuex + axios**
+ 
  **预览地址：<http://m.dayread.top>**
+ 
 **Github地址：<https://github.com/ranshaw/VueJs>**
 
  > 这是一个基于Vue, Vuex, Axios, NodeJs, Express, MongoDB, Mongoose的仿发布微博页面的小例子，实现了评论，点赞，踩一踩，删除，分页等功能， 虽然只是一个简单的页面，设计的内容却挺多的，Vue组件的封装，Vuex和Axios的具体使用，服务端接口的编写，数据库的增删查改等。
