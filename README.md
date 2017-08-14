@@ -14,18 +14,22 @@
 
 
 **服务端：Node + Express + MongoDB** 
+        
  **前   端：Vue2.0 + Vuex + axios**
+       
  **预览地址：<http://m.dayread.top>**
+        
 **Github地址：<https://github.com/ranshaw/VueJs>**
 
  > 这是一个基于Vue, Vuex, Axios, NodeJs, Express, MongoDB, Mongoose的仿发布微博页面的小例子，实现了评论，点赞，踩一踩，删除，分页等功能， 虽然只是一个简单的页面，设计的内容却挺多的，Vue组件的封装，Vuex和Axios的具体使用，服务端接口的编写，数据库的增删查改等。
-##服务端推荐阅读
+
+**服务端推荐阅读**
 1. [廖雪峰老师的JavaScript教程（含NodeJS和Koa）](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 2. [Express文档](http://www.expressjs.com.cn/)
 3. [MongoDB在window上安装教程](https://jingyan.baidu.com/article/d5c4b52bef7268da560dc5f8.html)
 4. [在Node中基于Mongoose对MongoDB进行增删查改](https://segmentfault.com/a/1190000006123880)
 
-##服务端代码实现
+**服务端代码实现**
 
   在你阅读完上面的文章之后，我相信服务端代码的编写，对你来说已经没什么问题了，下面代码中用到了少量的ES6中语法，如果只为看懂本文，百度一下即可，为了将来的发展的话，还是要系统学习下，推荐阮一峰大神的ES6教程，现在ES6已经成为前端的必备技能了。
 
