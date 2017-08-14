@@ -14,11 +14,19 @@
 
 
 **服务端：Node + Express + MongoDB** 
+<<<<<<< HEAD
         
  **前   端：Vue2.0 + Vuex + axios**
        
  **预览地址：<http://m.dayread.top>**
         
+=======
+
+ **前   端：Vue2.0 + Vuex + axios**
+ 
+ **预览地址：<http://m.dayread.top>**
+ 
+>>>>>>> f0ce8fe1e11adebb3596d2308287ab75311f109f
 **Github地址：<https://github.com/ranshaw/VueJs>**
 
  > 这是一个基于Vue, Vuex, Axios, NodeJs, Express, MongoDB, Mongoose的仿发布微博页面的小例子，实现了评论，点赞，踩一踩，删除，分页等功能， 虽然只是一个简单的页面，设计的内容却挺多的，Vue组件的封装，Vuex和Axios的具体使用，服务端接口的编写，数据库的增删查改等。
@@ -111,13 +119,14 @@ let query = comment.find({});
 
 服务端的逻辑就说这么多了，比较简单，[源码点这里](https://github.com/ranshaw/VueJs)，具体实现自行研究哟，觉得有帮助的话，给Star一下哟。
 
-##前端推荐阅读
+**前端推荐阅读**
 1. [VueJs官方文档](https://cn.vuejs.org/)
 2. [Vuex官方文档](https://vuex.vuejs.org/zh-cn/)
 3. [Vue-cli官方文档](https://github.com/vuejs/vue-cli)
 4. [Webpack2中文文档](https://doc.webpack-china.org/)
 5. [Axios](https://www.npmjs.com/package/axios)
-##前端代码实现
+
+**前端代码实现**
 
 ![image.png](http://upload-images.jianshu.io/upload_images/6565019-3b7a295a784d5852.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -151,6 +160,6 @@ const state = {
     preClipped: false,
 };
 ```
-##总结
+**总结**
  [项目源码](https://github.com/ranshaw/VueJs) 欢迎Start!
 孩子，我看你骨骼精奇，是块撸代码的好材料，待你撸完上面的代码即可打通任督二脉，开启通往高手之路。
